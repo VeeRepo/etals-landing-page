@@ -1,0 +1,813 @@
+[
+  {
+    "text": "Energy & Utilities",
+    "url": null,
+    "children": [
+      {
+        "text": "Clean technologies",
+        "url": "https://www.alfalaval.com/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/",
+        "children": []
+      },
+      {
+        "text": "Energy efficiency",
+        "url": "https://www.alfalaval.com/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/energy-efficiency/",
+        "children": []
+      },
+      {
+        "text": "Clean energy",
+        "url": "https://www.alfalaval.com/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/clean-energy/",
+        "children": [
+          {
+            "text": "Clean hydrogen",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/clean-energy/clean-hydrogen/",
+            "children": []
+          },
+          {
+            "text": "Energy storage",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/clean-energy/energy-storage/",
+            "children": []
+          },
+          {
+            "text": "Carbon Capture, Utilization and Storage",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/clean-energy/carbon-capture-utilization-and-storage/",
+            "children": []
+          },
+          {
+            "text": "Fuel cells",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/clean-energy/fuel-cells/",
+            "children": []
+          },
+          {
+            "text": "Power-to-X",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/clean-energy/power-to-x/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Chemicals",
+        "url": null,
+        "children": [
+          {
+            "text": "Fertilizers",
+            "url": "https://www.alfalaval.com/industries/chemicals/fertilizers/",
+            "children": []
+          },
+          {
+            "text": "Inorganic chemicals",
+            "url": "https://www.alfalaval.com/industries/chemicals/inorganic-chemicals/",
+            "children": []
+          },
+          {
+            "text": "Petrochemicals",
+            "url": "https://www.alfalaval.com/industries/chemicals/petrochemicals/",
+            "children": []
+          },
+          {
+            "text": "Bio-based chemicals",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/sustainablesolutions/sustainable-solutions/circularity/resource-efficiency/bio-based-chemicals/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Power",
+        "url": null,
+        "children": [
+          {
+            "text": "Nuclear power",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/nuclear-power/",
+            "children": []
+          },
+          {
+            "text": "Combined Heat and Power",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/combined-heat-and-power/",
+            "children": []
+          },
+          {
+            "text": "Engine power",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/engine-power/",
+            "children": []
+          },
+          {
+            "text": "Thermal power",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/thermal-power/",
+            "children": []
+          },
+          {
+            "text": "Renewable power",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/renewable-power/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Crude oil refinery",
+        "url": "https://www.alfalaval.com/industries/energy-and-utilities/crude-oil-refinery/",
+        "children": []
+      },
+      {
+        "text": "Machinery & Manufacturing",
+        "url": null,
+        "children": [
+          {
+            "text": "Fluid power",
+            "url": "https://www.alfalaval.com/industries/machinery-and-manufacturing/fluid-power/",
+            "children": []
+          },
+          {
+            "text": "Construction drilling",
+            "url": "https://www.alfalaval.com/industries/machinery-and-manufacturing/construction-drilling/",
+            "children": []
+          },
+          {
+            "text": "Metal working",
+            "url": "https://www.alfalaval.com/industries/machinery-and-manufacturing/metal-working/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Mining, Minerals & Pigment",
+        "url": null,
+        "children": [
+          {
+            "text": "Base Minerals and Mining",
+            "url": "https://www.alfalaval.com/industries/mining-minerals-and-pigment/base-minerals-and-mining/",
+            "children": []
+          },
+          {
+            "text": "Coal Beneficiation",
+            "url": "https://www.alfalaval.com/industries/mining-minerals-and-pigment/coal-beneficiation/",
+            "children": []
+          },
+          {
+            "text": "Precious Minerals and Mining",
+            "url": "https://www.alfalaval.com/industries/mining-minerals-and-pigment/precious-minerals-and-mining/",
+            "children": []
+          },
+          {
+            "text": "Mineral exploration drilling",
+            "url": "https://www.alfalaval.com/industries/mining-minerals-and-pigment/base-minerals-and-mining/mineral-exploration-drilling/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Pulp & Paper",
+        "url": null,
+        "children": [
+          {
+            "text": "Pulp production",
+            "url": "https://www.alfalaval.com/industries/pulp-and-paper/pulp-production/",
+            "children": []
+          },
+          {
+            "text": "Paper production",
+            "url": "https://www.alfalaval.com/industries/pulp-and-paper/paper-production/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Steel",
+        "url": null,
+        "children": [
+          {
+            "text": "Coke oven gas production",
+            "url": "https://www.alfalaval.com/industries/steel/coke-oven-gas-production/",
+            "children": []
+          },
+          {
+            "text": "Steel production",
+            "url": "https://www.alfalaval.com/industries/steel/steel-production/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Refrigeration",
+        "url": null,
+        "children": [
+          {
+            "text": "Commercial refrigeration",
+            "url": "https://www.alfalaval.com/industries/refrigeration/commercial-refrigeration/",
+            "children": []
+          },
+          {
+            "text": "Industrial refrigeration",
+            "url": "https://www.alfalaval.com/industries/refrigeration/industrial-refrigeration/",
+            "children": []
+          },
+          {
+            "text": "Industrial heat pumps",
+            "url": "https://www.alfalaval.com/industries/hvac/industrial-heat-pumps/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "HVAC",
+        "url": "https://www.alfalaval.com/industries/hvac/hvac/",
+        "children": [
+          {
+            "text": "District heating",
+            "url": "https://www.alfalaval.com/industries/hvac/district-heating/",
+            "children": []
+          },
+          {
+            "text": "District cooling",
+            "url": "https://www.alfalaval.com/industries/hvac/district-cooling/",
+            "children": []
+          },
+          {
+            "text": "Heat recovery in cities",
+            "url": "https://www.alfalaval.com/industries/hvac/hvac/heat-recovery-in-sustainable-cities/",
+            "children": []
+          },
+          {
+            "text": "Geothermal heating",
+            "url": "https://www.alfalaval.com/industries/hvac/district-heating/geothermal-heating/",
+            "children": []
+          },
+          {
+            "text": "Collective solar thermal",
+            "url": "https://www.alfalaval.com/industries/hvac/hvac/collective-solar-thermal/",
+            "children": []
+          },
+          {
+            "text": "Industrial heat pumps",
+            "url": "https://www.alfalaval.com/industries/hvac/industrial-heat-pumps/",
+            "children": []
+          },
+          {
+            "text": "Residential heat pumps",
+            "url": "https://www.alfalaval.com/industries/hvac/hvac/residential-heat-pumps/",
+            "children": []
+          },
+          {
+            "text": "Energy Efficient Buildings",
+            "url": "https://www.alfalaval.com/industries/hvac/hvac/making-the-worlds-buildings-more-energy-efficient/",
+            "children": []
+          },
+          {
+            "text": "Air conditioning and heat pump solutions",
+            "url": "https://www.alfalaval.com/industries/hvac/air-conditioning-and-heat-pump-solutions/",
+            "children": []
+          },
+          {
+            "text": "Solutions for pools and greenhouses",
+            "url": "https://www.alfalaval.com/industries/hvac/hvac/solutions-for-pools-and-greenhouses/",
+            "children": []
+          },
+          {
+            "text": "HVAC Consultant Portal",
+            "url": "https://www.alfalaval.com/industries/hvac/hvac-consultant-portal/main/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Data center cooling",
+        "url": "https://www.alfalaval.com/industries/energy-and-utilities/data-centers/",
+        "children": []
+      },
+      {
+        "text": "Oil & Gas",
+        "url": null,
+        "children": [
+          {
+            "text": "Oil and Gas drilling",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/oil-and-gas/oil-and-gas-drilling/",
+            "children": []
+          },
+          {
+            "text": "Oil production",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/oil-and-gas/oil-production/",
+            "children": []
+          },
+          {
+            "text": "Gas production",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/oil-and-gas/gas-production/",
+            "children": []
+          },
+          {
+            "text": "Oil and Gas utility systems",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/oil-and-gas/oil-and-gas-utility-systems/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Biofuels",
+        "url": "https://www.alfalaval.com/industries/energy-and-utilities/biofuels/",
+        "children": [
+          {
+            "text": "Bioethanol production",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/biofuels/bioethanol-production/",
+            "children": []
+          },
+          {
+            "text": "Bio oil production",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/biofuels/bio-oil-production/",
+            "children": []
+          },
+          {
+            "text": "Biodiesel production",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/biofuels/biodiesel-production/",
+            "children": []
+          },
+          {
+            "text": "Biogas production",
+            "url": "https://www.alfalaval.com/industries/energy-and-utilities/biofuels/biogas-production/",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Home & Personal Care",
+    "url": null,
+    "children": [
+      {
+        "text": "Home care",
+        "url": "https://www.alfalaval.com/industries/home-and-personal-care/home-care/",
+        "children": []
+      },
+      {
+        "text": "Personal care",
+        "url": "https://www.alfalaval.com/industries/home-and-personal-care/personal-care/",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "Food, Dairy & Beverage",
+    "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-dairy-and-beverage/",
+    "children": [
+      {
+        "text": "Agriculture processing",
+        "url": "https://www.alfalaval.com/industries/food-dairy-beverage/agriculture-processing/",
+        "children": [
+          {
+            "text": "Starch and Sweetener production",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/agriculture-processing/starch-and-sweetener-production/",
+            "children": []
+          },
+          {
+            "text": "Sugar production",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/agriculture-processing/sugar-production/",
+            "children": []
+          },
+          {
+            "text": "Latex processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/agriculture-processing/latex-processing/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Beer production",
+        "url": "https://www.alfalaval.com/industries/food-dairy-beverage/beverage-processing/beer-production/",
+        "children": [
+          {
+            "text": "Commercial brewing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/beverage-processing/beer-production/commercial-brewing/",
+            "children": []
+          },
+          {
+            "text": "Craft brewing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/beverage-processing/beer-production/craft-brewing/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Beverage processing",
+        "url": "https://www.alfalaval.com/industries/food-dairy-beverage/beverage-processing/",
+        "children": [
+          {
+            "text": "Coffee and tea production",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/beverage-processing/coffee-and-tea-production/",
+            "children": []
+          },
+          {
+            "text": "Fruit and vegetable processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/beverage-processing/fruit-and-vegetable-processing/",
+            "children": []
+          },
+          {
+            "text": "Soft drink production",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/beverage-processing/soft-drink-production/",
+            "children": []
+          },
+          {
+            "text": "Wine and distilled alcoholic beverages production",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/beverage-processing/wine-and-distilled-alcoholic-beverages-production/",
+            "children": []
+          },
+          {
+            "text": "Hard seltzer production",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/beverage-processing/hard-seltzer-production/",
+            "children": []
+          },
+          {
+            "text": "Plant-based drink production",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/beverage-processing/plant-based-drink-production/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Dairy processing",
+        "url": "https://www.alfalaval.com/industries/food-dairy-beverage/dairy-processing/",
+        "children": []
+      },
+      {
+        "text": "Fat and oil processing",
+        "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/fat-and-oil-processing/",
+        "children": [
+          {
+            "text": "Avocado oil processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/fat-and-oil-processing/avocado-oil-processing/",
+            "children": []
+          },
+          {
+            "text": "Fat and oil for biofuel processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/fat-and-oil-processing/fat-and-oil-for-biofuel-processing/",
+            "children": []
+          },
+          {
+            "text": "Animal fat processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/fat-and-oil-processing/animal-fat-processing/",
+            "children": []
+          },
+          {
+            "text": "Olive oil processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/fat-and-oil-processing/olive-oil-processing/",
+            "children": []
+          },
+          {
+            "text": "Palm oil processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/fat-and-oil-processing/palm-oil-processing/",
+            "children": []
+          },
+          {
+            "text": "Seed oil processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/fat-and-oil-processing/seed-oil-processing/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Food processing",
+        "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/",
+        "children": [
+          {
+            "text": "Gum processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/gum-processing/",
+            "children": []
+          },
+          {
+            "text": "Pet food processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/pet-food-processing/",
+            "children": []
+          },
+          {
+            "text": "Prepared food processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/prepared-food-processing/",
+            "children": []
+          },
+          {
+            "text": "Yeast production",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/yeast-production/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Protein processing",
+        "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/protein-processing/",
+        "children": [
+          {
+            "text": "Insect processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/protein-processing/insect-processing/",
+            "children": []
+          },
+          {
+            "text": "Cellular agriculture processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/protein-processing/cellular-agriculture-processing/",
+            "children": []
+          },
+          {
+            "text": "Plant-based protein processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/protein-processing/plant-based-protein-processing/",
+            "children": []
+          },
+          {
+            "text": "Fish processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/protein-processing/fish-processing/",
+            "children": []
+          },
+          {
+            "text": "Meat & Poultry processing",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/food-processing/protein-processing/meat-poultry-processing/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "A resilient food system",
+        "url": "https://www.alfalaval.com/industries/food-dairy-beverage/a-resilient-global-food-system/",
+        "children": [
+          {
+            "text": "Next-generation food",
+            "url": "https://www.alfalaval.com/industries/food-dairy-beverage/a-resilient-global-food-system/next-generation-food/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Life-cycle Assessment Solution",
+        "url": "https://www.alfalaval.com/industries/food-dairy-beverage/alfa-laval-life-cycle-assessment-solution/",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "Marine & Transportation",
+    "url": null,
+    "children": [
+      {
+        "text": "Marine",
+        "url": "https://www.alfalaval.com/industries/marine-transportation/marine/",
+        "children": [
+          {
+            "text": "Air lubrication",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/air-lubrication/",
+            "children": []
+          },
+          {
+            "text": "Ballast water management",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/ballast-water-management/",
+            "children": []
+          },
+          {
+            "text": "Emission control",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/emission-control/",
+            "children": []
+          },
+          {
+            "text": "Exhaust gas cleaning",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/exhaust-gas-cleaning/",
+            "children": []
+          },
+          {
+            "text": "Fresh water generation",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/fresh-water-generation/",
+            "children": []
+          },
+          {
+            "text": "Fuel supply",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/fuel-supply/",
+            "children": []
+          },
+          {
+            "text": "Gas combustion",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/gas-combustion/",
+            "children": []
+          },
+          {
+            "text": "Heating and cooling",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/heating-and-cooling/",
+            "children": []
+          },
+          {
+            "text": "Inert gas production",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/inert-gas-production/",
+            "children": []
+          },
+          {
+            "text": "Lube oil treatment",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/lube-oil-treatment/",
+            "children": []
+          },
+          {
+            "text": "Fuel oil treatment",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/fuel-oil-treatment/",
+            "children": []
+          },
+          {
+            "text": "Oily waste treatment",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/oily-waste-treatment/",
+            "children": []
+          },
+          {
+            "text": "Steam and heat generation",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/steam-and-heat-generation/",
+            "children": []
+          },
+          {
+            "text": "Tank Management",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/tank-management/",
+            "children": []
+          },
+          {
+            "text": "Waste heat recovery",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/waste-heat-recovery/",
+            "children": []
+          },
+          {
+            "text": "Hydraulic control oil filtration",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/marine/hydraulic-control-oil-filtration/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Engine and transport",
+        "url": null,
+        "children": [
+          {
+            "text": "Clean emissions",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/engine-and-transport/clean-emissions/",
+            "children": []
+          },
+          {
+            "text": "Engine genset and transport cooling",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/engine-and-transport/engine-genset-and-transport-cooling/",
+            "children": []
+          },
+          {
+            "text": "Fuel cleaning",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/engine-and-transport/fuel-cleaning/",
+            "children": []
+          },
+          {
+            "text": "Oil cleaning",
+            "url": "https://www.alfalaval.com/industries/marine-transportation/engine-and-transport/oil-cleaning/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "24/7 Service & Support",
+        "url": "https://www.alfalaval.com/industries/marine-transportation/marine/marine-service/",
+        "children": []
+      },
+      {
+        "text": "Sustainable shipping",
+        "url": "https://www.alfalaval.com/industries/marine-transportation/sustainable-shipping/",
+        "children": []
+      }
+    ]
+  },
+  {
+    "text": "Pharma & Biotech",
+    "url": null,
+    "children": [
+      {
+        "text": "Biotechnology",
+        "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/biotechnology/",
+        "children": [
+          {
+            "text": "Bacterial and fungus processing",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/biotechnology/bacterial-and-fungus-processing/",
+            "children": []
+          },
+          {
+            "text": "Cell culture processing",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/biotechnology/cell-culture-processing/",
+            "children": []
+          },
+          {
+            "text": "Egg-based vaccine production",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/biotechnology/egg-based-vaccine-production/",
+            "children": []
+          },
+          {
+            "text": "Industrial fermentation processes",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/biotechnology/industrial-fermentation-processes/",
+            "children": []
+          },
+          {
+            "text": "Mixing, formulation and packaging",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/biotechnology/mixing-formulation-and-packaging/",
+            "children": []
+          },
+          {
+            "text": "Support and utility processes",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/biotechnology/support-and-utility-processes/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Pharmaceutical production",
+        "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/pharmaceutical-production/",
+        "children": [
+          {
+            "text": "Blood plasma processing",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/pharmaceutical-production/blood-plasma-processing/",
+            "children": []
+          },
+          {
+            "text": "Chemical API processing",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/pharmaceutical-production/chemical-api-processing/",
+            "children": []
+          },
+          {
+            "text": "Mixing, formulation and packaging",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/pharmaceutical-production/mixing-formulation-and-packaging/",
+            "children": []
+          },
+          {
+            "text": "Pharmaceutical water systems",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/pharmaceutical-production/pharmaceutical-water-systems/",
+            "children": []
+          },
+          {
+            "text": "Plant and animal extract production",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/pharmaceutical-production/plant-and-animal-extract-production/",
+            "children": []
+          },
+          {
+            "text": "Support and utility processes",
+            "url": "https://www.alfalaval.com/industries/biotech-pharmaceuticals/biotechnology/support-and-utility-processes/",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "text": "Water & Wastewater",
+    "url": null,
+    "children": [
+      {
+        "text": "Fresh water",
+        "url": null,
+        "children": [
+          {
+            "text": "Water works sludge treatment",
+            "url": "https://www.alfalaval.com/industries/water-waste-treatment/fresh-water/water-works-sludge-treatment/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Industrial water and waste treatment",
+        "url": null,
+        "children": [
+          {
+            "text": "Water intake",
+            "url": "https://www.alfalaval.com/industries/water-waste-treatment/industrial-water-and-waste-treatment/water-intake/",
+            "children": []
+          },
+          {
+            "text": "Industrial wastewater treatment",
+            "url": "https://www.alfalaval.com/industries/water-waste-treatment/industrial-water-and-waste-treatment/industrial-wastewater-treatment/",
+            "children": []
+          },
+          {
+            "text": "Product recovery",
+            "url": "https://www.alfalaval.com/industries/water-waste-treatment/industrial-water-and-waste-treatment/product-recovery/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Municipal wastewater treatment",
+        "url": null,
+        "children": [
+          {
+            "text": "Biological wastewater treatment",
+            "url": "https://www.alfalaval.com/industries/water-waste-treatment/municipal-wastewater-treatment/biological-wastewater-treatment/",
+            "children": []
+          },
+          {
+            "text": "Sludge treatment",
+            "url": "https://www.alfalaval.com/industries/water-waste-treatment/municipal-wastewater-treatment/sludge-treatment/",
+            "children": []
+          },
+          {
+            "text": "Tertiary treatment",
+            "url": "https://www.alfalaval.com/industries/water-waste-treatment/industrial-water-and-waste-treatment/tertiary-treatment/",
+            "children": []
+          }
+        ]
+      },
+      {
+        "text": "Transforming wastewater",
+        "url": "https://www.alfalaval.com/industries/water-waste-treatment/transforming-wastewater-towards-an-energy-neutral-resource-recovery-plant/",
+        "children": []
+      },
+      {
+        "text": "Corporate water stewardship",
+        "url": "https://www.alfalaval.com/industries/water-waste-treatment/corporate-water-stewardship/",
+        "children": []
+      }
+    ]
+  }
+]
