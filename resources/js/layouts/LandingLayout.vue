@@ -13,7 +13,7 @@ const isDark = ref(false);
 // Provide dark mode state to all child components
 provide('isDark', isDark);
 
-const waveColor = computed(() => isDark.value ? 'rgba(240, 109, 52, 0.12)' : 'rgba(234, 88, 12, 0.15)');
+const waveColor = computed(() => isDark.value ? 'rgba(240, 109, 52, 0.12)' : 'rgba(234, 88, 12, 0.08)');
 
 const toggleDarkMode = () => {
     isDark.value = !isDark.value;
