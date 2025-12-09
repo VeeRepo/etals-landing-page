@@ -9,6 +9,7 @@ import { Vue3Lottie } from 'vue3-lottie';
 import snurranLightAnimation from '../../../public/snurran_orange.json';
 import snurranDarkAnimation from '../../../public/snurran_orange_dark.json';
 
+
 const heroCard = ref(null);
 const heroText = ref(null);
 const heroSub = ref(null);
@@ -155,7 +156,23 @@ useMotion(videoBox, {
 
                     <!-- Right Decorative Shapes -->
                     <div ref="heroShapes" class="relative w-full lg:w-auto flex-shrink-0">
-                        <img class="w-[400px]" :src="isDark ? '/octopus-dark.svg' : '/octopus.svg'"/>
+                        <!-- Octopus images - both loaded, CSS controls visibility -->
+                        <div class="relative w-[400px] h-[400px]">
+                            <!-- Light mode image -->
+                            <img 
+                                src="/octopus-light.png" 
+                                class="absolute inset-0 w-full h-full object-contain transition-opacity duration-500 delay-100"
+                                :class="isDark ? 'opacity-0' : 'opacity-100'"
+                                alt="Etals illustration"
+                            />
+                            <!-- Dark mode image -->
+                            <img 
+                                src="/octopus-dark.png" 
+                                class="absolute inset-0 w-full h-full object-contain transition-opacity duration-500 delay-100"
+                                :class="isDark ? 'opacity-100' : 'opacity-0'"
+                                alt="Etals illustration"
+                            />
+                        </div>
                         <div class="hidden relative w-64 h-64 md:w-80 md:h-80 lg:w-96 lg:h-96 mx-auto lg:mx-0">
                             <!-- Background circle (largest, lightest) -->
                             <div 
